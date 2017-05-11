@@ -7,6 +7,12 @@
         {
             "type": "node",
             "request": "launch",
+            "name": "Excercise03",
+            "program": "${workspaceRoot}/excercise03.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
             "name": "F03",
             "program": "${workspaceRoot}/f03.js"
         },
