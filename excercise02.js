@@ -2,11 +2,11 @@
 
 //Create a variable called number, assign the value 50 to it, and display it.
 
-//The code below should display "Volvo" - Fix it.
+//The code below should display "Simona" - Fix it.
 
-var carName = "Volvo";
+var personName = "Simona";
 
-console.log(carname);
+console.log(personname);
 
 //Display the sum of 5 + 10, using two variables x and y.
 
