@@ -3,13 +3,13 @@
 //string literal
 // ""
 
-let s = "";
+let s = ""; //empty string
 
 
 // array literal
 // []
 
-let a = [];
+let a = []; //empty array
 
 //object literal
 // {}
@@ -66,6 +66,9 @@ let car2 = {
     // } 
     accelerate (toHowMuch){
         this.speed = toHowMuch;
+    },
+    honk(){
+        console.log("PEEEEEEEEEEEEE");
     }
 
 };
