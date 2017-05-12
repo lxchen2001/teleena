@@ -81,7 +81,13 @@ let person = {
     "address-1" : ""
 };
 
-person["address-1"];
+//person["address-1"];
+
+person.name = false;
+person.children = 1;
+person.naame = "Mario";
+delete person.naame;
+
 
 // car1.brand
 // car2.brand
@@ -102,3 +108,5 @@ changeStyleObjectOriented({text: "HI", color: "red"});
 function changeStyleObjectOriented(options){
     //do something with options.backgroudColor
 }
+
+

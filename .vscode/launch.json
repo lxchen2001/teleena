@@ -4,6 +4,18 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "F05",
+            "program": "${workspaceRoot}/f05.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Excercise04",
+            "program": "${workspaceRoot}/excercise04.js"
+        },
     {
         "type": "node",
         "request": "launch",
