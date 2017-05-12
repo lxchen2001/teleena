@@ -10,5 +10,5 @@
 // Use the variable to print the sayHi message on the console
 // Change the name of the person to "Luigi"
 // Use the variable to print the sayHi message on the console
-// and verify that the result is not "Hi my name is Luigi"
+// and verify that the result is now "Hi my name is Luigi"
 
